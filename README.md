@@ -10,6 +10,6 @@ This will require mining webpages of various sorts and using NLP to try to ident
 # scraping-base.py
 For using this software scraping webpages from a particular base URL:
 
-Make sure you have installed Python3.0 or higher in your computer and install and import all modules properly.
+Make sure you have installed Python3.0 or higher and JAVA 8 (in order to use tika for parsing pdf) in your computer, as well as install and import all modules properly.
 
 The example output file (example_output.txt) is provided in case of any accident.
