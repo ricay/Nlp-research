@@ -1,16 +1,13 @@
 import requests
 from bs4 import BeautifulSoup
-import nltk
-import numpy
 import re
 import io
-import csv
+from tika import parser
+
 
 
 def request(url):
     result = requests.get(url)
-    # ensure that we obtain a 200 OK response to indicate
-    # print(result.status_code)
 
     src = result.content
     soup = BeautifulSoup(src, features="html.parser")
@@ -48,7 +45,6 @@ def get_all_links(soup):
                     if 'iaai' not in href:
                         if href not in links: # reduce duplicate
                             links.append(href)
-    # print(links)
     return links
 
 
@@ -71,12 +67,10 @@ def relevant_pages(links):  # links must be a list
             header = soup.find('h2').text
             all_name = all_name + header + ':'
             all_p = soup.findAll('p')
-            # print(all_p)
             for element in all_p:
                 item = element.text
                 item = clean_format(item)
                 all_name = all_name + item
-                # print(all_name)
                 all_name = text_to_line(all_name)
             all_page = all_page + all_name +'\n'
         if soup.find('h1') != None:
@@ -89,7 +83,7 @@ def relevant_pages(links):  # links must be a list
                     item = clean_format(item)
                     all_name = all_name + item
                     all_name = text_to_line(all_name)
-                    # all_name.strip()
+
                 all_page = all_page + all_name + '\n'
             if str(header) == 'AAAI-20 Senior Program Committee':
                 all_name = all_name + header + ':'+ '\n'
@@ -108,34 +102,6 @@ def relevant_pages(links):  # links must be a list
     return all_page
 
 
-def clean_name(name_lst): #name_lst is a list of list
-    list1 = []
-    list_name = []
-    list_insit = []
-    list_country = []
-    for i in name_lst:
-        for j in i:
-            count = len(j.split(' '))
-            if count < 5:
-                print(list1)
-                # list1 = list1.append(j) # list1 = ['AAAI program committee']
-                #write to frst column of csv
-
-            else:
-                nw = j.split('\n') # list
-                # print(nw)
-                # with open('fileName.csv', 'w') as f:
-                #     writer = csv.writer(f,delimiter = ',')
-                new_list = []
-                for item in nw: # item format - name (insititute)
-                    if re.match(r'^This site', item):
-                        break
-                    else:
-                        a = [item]
-                        new_list.append(a)
-                        print(new_list)
-
-
 def invited_speaker(soup):
     all_links = soup.find_all("a")
     should = ['speakers']
@@ -148,7 +114,6 @@ def invited_speaker(soup):
                 if 'call' not in href:
                     if 'iaai' not in href:
                         if href not in links:  # reduce duplicate
-                            # if bool(re.search(r'aaai-20',href,flags=re.I)):
                             links.append(href)
     for j in links:
         if '#' in j:
@@ -157,7 +122,6 @@ def invited_speaker(soup):
     text = ''
     for i in soup.select('div.et_pb_text_inner', limit= 3):
         if (i.find('h1')):
-            # nohyphen = re.sub('-','',i.find('h1').get_text())
             text = text + i.find('h1').get_text() +'\n'
         if (i.find('p')):
             for p in i.select('p'):
@@ -203,14 +167,37 @@ def text_to_line(text):
     return new
 
 def clean_txt(file):
-
     with open(file) as infile, open('output.txt', 'w') as outfile:
         for line in infile:
             if not line.strip(): continue  # skip the empty line
             line = re.sub(r"^am", '', line)
             line = re.sub(r"^,", '', line)
+
             outfile.write(line)  # non-empty line. Write it to output
 
+
+def get_program_committee(soup):
+    all_links = soup.find_all("a")
+    should = ['Members.List_.']
+
+    for link in all_links:
+        href = link.get("href")
+        if any(x in href for x in should):
+            return href
+
+def pdf_parser(file):
+    # Parse data from file
+    file_data = parser.from_file(file)
+    # Get files text content
+    text = file_data['content']
+    # print(text)
+    file_name = open('program_committee.txt','w')
+    file_name.writelines(text)
+    with open('program_committee.txt') as infile, open('output.txt', 'a') as outfile:
+        outfile.write('AAAI20 Program Committee members:\n')
+        for line in infile:
+            if not line.strip(): continue  # skip the empty line
+            outfile.write(line)
 
 
 if __name__ == '__main__':
@@ -225,3 +212,7 @@ if __name__ == '__main__':
     speaker_name = invited_speaker(soup)
 
     clean_txt('organization_name.txt')
+
+    program_committee = get_program_committee(soup)
+
+    pdf_parser(program_committee)
