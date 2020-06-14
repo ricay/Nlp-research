@@ -8,8 +8,10 @@ The goal of the research is to identify whether particular fields are open to mi
 This will require mining webpages of various sorts and using NLP to try to identify key pieces of information.
 
 ## scraping-base.py
-For using this software scraping webpages from a particular base URL:
+For using this software scraping webpages from this particular base URL:
+
+https://aaai.org/Conferences/AAAI-20/
 
 Make sure you have installed Python3.0 or higher and JAVA 8 (in order to use tika for parsing pdf) in your computer, as well as install and import all modules properly.
 
-The example output file (example_output.txt) is provided in case of any accident.
+The example output file (example_output.txt) is provided in case of any accident, which contains names on different sections and pages for year 2020. 
