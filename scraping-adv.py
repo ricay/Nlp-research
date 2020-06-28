@@ -256,7 +256,8 @@ def clean_txt(file):
     else:
         out_file = year[0] + '_applied_ai_output.txt'
 
-    save_path = 'example/'
+    save_path = 'output/'
+    
     complete = os.path.join(save_path, out_file)
 
     with open(file) as infile, open(complete, 'w') as outfile:
@@ -296,14 +297,16 @@ def pdf_parser(file):
 if __name__ == '__main__':
 
     aaai_urls = ['https://aaai.org/Conferences/AAAI-20/',
-            'https://aaai.org/Conferences/AAAI-19/',
-            'https://aaai.org/Conferences/AAAI-18/',
-            'https://aaai.org/Conferences/AAAI/aaai17.php',
-            'https://aaai.org/Conferences/AAAI/aaai16.php',
-            'https://aaai.org/Conferences/AAAI/aaai15.php',
-            'https://aaai.org/Conferences/AAAI/aaai14.php',
-            'https://aaai.org/Conferences/AAAI/aaai13.php']
+                 'https://aaai.org/Conferences/AAAI-19/',
+                 'https://aaai.org/Conferences/AAAI-18/',
+                 'https://aaai.org/Conferences/AAAI/aaai17.php',
+                 'https://aaai.org/Conferences/AAAI/aaai16.php',
+                 'https://aaai.org/Conferences/AAAI/aaai15.php',
+                 'https://aaai.org/Conferences/AAAI/aaai14.php',
+                 'https://aaai.org/Conferences/AAAI/aaai13.php']
 
+
+    os.makedirs('output/')
     for url in aaai_urls:
 
         year = re.findall(r"[0-9]+", url)
