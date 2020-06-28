@@ -1,0 +1,126 @@
+AAAI-18 Conference Committee:
+Shlomo Zilberstein (University of Massachusetts Amherst, USA
+Sheila McIlraith (University of Toronto, Canada
+Kilian Weinberger (Cornell University, USA
+G. Michael Youngblood (PARC, a Xerox Company, USA
+Karen Myers (SRI International, USA
+Eric Eaton (University of Pennsylvania, USA
+Michael Wollowski (Rose-Hulman Institute of Technology, USA
+Ece Kamar (Microsoft, USA
+Julie A Shah (Massachusetts Institute of Technology, USA
+Bistra Dilkina (Georgia Institute of Technology, USA
+Dan Sheldon (University of Massachusetts Amherst, USA
+Hector Muñoz-Avila (Lehigh University, USA
+Meinolf Sellmann (General Electric Global Research, USA
+Blai Bonet (Universidad Simón Bolívar, Venezuela
+Prasad Tadepalli (Oregon State University, USA
+David Aha (Naval Research Laboratory, USA
+Shirin Sohrabi (IBM, USA
+Ariel Felner (Ben Gurion University, Israel
+William Yeoh (Washington University in St. Louis, USA
+David Wingate (Brigham Young University, USA
+Matthew Taylor (Washington State University, USA
+Maria Chang (IBM Research, USA
+Daniele Magazzeni (King’s College London, UK
+Erez Karpas (Technion – Israel Institute of Technology
+Nir Lipovetzky (University of Melbourne, Australia
+Sheila Tejada (University of Southern California, USA
+Dave Touretzky (Carnegie Mellon University, USA
+Holger Hoos (University of British Columbia, Canada
+Jorge Baier (Pontificia Universidad Católica de Chile
+John Dickerson (University of Maryland, USA
+Nicholas Mattei (IBM, USA
+Michael Bowling (University of Alberta, Canada
+Michael Littman (Rutgers University, USA
+Jeremy Frank (NASA, USA
+Barry O’Sullivan (University College Cork, Ireland
+Felix Wu (Cornell University, USA
+Invited Speakers: 
+Subbarao Kambhampati (Arizona State University)
+Yejin Choi (University of Washington)
+Cynthia Dwork (Harvard / Radcliffe Institute for Advanced Study)
+Zoubin Ghahramani (University of Cambridge / Uber)
+Joseph Halpern (Cornell University)
+Charles Isbell (Georgia Institute of Technology)
+Percy Liang (Stanford University)
+Tutorial Forum and Panelists:
+Bo Li (UC Berkeley)
+Dawn Song (UC Berkeley)
+Yevgeniy Vorobeychik (Vanderbilt University)
+Yolanda Gil (University of Southern California)
+Tara Chklovski (Iridescent)
+Rusty Nye (Iridescent)
+Allison Colyer  (Iridescent)
+Prashant Doshi (University of Georgia)
+Saurabh Arora (University of Georgia)
+Csaba Szepesvari (University of Alberta)
+Tor Lattimore (University of Alberta)
+Edward Choi (Georgia Tech)
+Sanjay Purushotham (University of Southern California)
+Yan Liu (University of Southern California)
+Jimeng Sun (Georgia Tech)
+Peng Cui (Tsinghua University)
+Wenwu Zhu (Tsinghua University)
+Luc De Raedt (Director of the lab for Declarative Languages and AI at the KULeuven in Belgium)
+Stefano Teso (Post-doc in the lab for Declarative Languages and AI at the KULeuven in Belgium)
+Andrea Passerini (Associate Professor at the University of Trento in Italy)
+Boi Faltings (EPFL)
+Goran Radanovic (Harvard University)
+Mehul Bhatt (Örebro University and University of Bremen)
+Jakob Suchan (University of Bremen)
+Naeemul Hassan (University of Mississippi)
+Dongwon Lee (The Pennsylvania State University)
+Roman Barták (Charles University in Prague)
+Lukáš Chrpa (Czech Technical University)
+Benjamin Grosof (Accenture)
+Michael Kifer (Stony Brook University)
+Paul Fodor (Stony Brook University)
+Janine Bloomfield (Coherent Knowledge)
+Yuqing Tang (Microsoft AI & Research)
+Sayan Pathak (Cognitive Toolkit)
+Ramasuri Narayanam (IBM Research - India)
+Y. Narahari (Indian Institute of Science, Bangalore)
+Jana Doppa (Washington State University, Pullman)
+Liping Liu (Tufts University)
+Chao Ma (Oregon State University)
+Virginia Dignum (TU)
+Ferdinando Fioretto (University of Michigan)
+William Yeoh (Washington University, St. Louis)
+Roie Zivan (Ben Gurion University)
+Julian Togelius (New York University)
+William Harrison (National Institute of Standards and Technology)
+Erez Karpas (Technion – Israel Institute of Technology)
+Zeid Kootbally (University of Southern California, LA)
+Tim Niemueller (RWTH Aachen University)
+Craig Schlenoff (National Institute of Standards and Technology)
+Tiago Vaquero (California Institute of Technology)
+Brendan Juba (Washington University, St. Louis)
+Loizos Michael (Open University of Cyprus)
+Mayank Kejriwal (USC Information Sciences Institute (ISI))
+Craig Knoblock (USC)
+Pedro Szekely (USC)
+Hoifung Poon (Microsoft Research)
+Chris Quirk (Microsoft Research)
+Scott Wen-tau Yih (Allen Institute for Artificial Intelligence)
+Liang Hu (University of Technology Sydney, Australia)
+Longbing Cao (University of Technology Sydney (UTS))
+Jian Cao (Shanghai Jiao Tong University (SJTU))
+Songlei Jian (University of Technology Sydney, Australia and National University of Defense Technology, China)
+Deepak Venugopal (University of Memphis)
+Vibhav Gogate (University of Texas at Dallas)
+Vincent Ng (University of Texas at Dallas)
+Joscha Bach (Harvard Program for Evolutionary Dynamics in Cambridge, Massachusetts)
+Ramasuri Narayanam (IBM Research - India)
+Rohith D. Vallam (IBM Research - India)
+Ritwik Chaudhuri (IBM Research - India)
+Manish Kataria (IBM Research - India)
+Gyana R. Parija (IBM Research - India)
+Fatemeh Jahedpari (University of Wollongong, Dubai)
+Jeff Alstott (IARPA)
+Liyi Dai (Army Research Office)
+Peter Friedland (Independent Technology Strategist)
+Jennifer Roberts (DARPA)
+Reid Simmons (Carnegie Mellon University)
+Yoav Shoham (Stanford University)
+C. Raymond Perrault (SRI International)
+Erik Brynjolfsson (MIT)

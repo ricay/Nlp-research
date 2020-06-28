@@ -1,0 +1,1357 @@
+AAAI-16 Conference Committee:
+Shlomo Zilberstein (University of Massachusetts Amherst, USA
+Dale Schuurmans (University of Alberta, Canada
+ Michael Wellman (University of Michigan, USA
+Peter Z. Yeh (Nuance Communications, USA
+James Crawford (Orbital Insight, USA
+Sven Koenig (University of Southern California, USA
+Todd Neller Gettysburg College, USA
+David Leake (University of Indidana, USA
+James Lester (North Carolina State University, USA
+Zico Kolter (Carnegie Mellon University, USA
+Claire Monteleoni (George Washington University, USA
+Patrick Doherty (Linkoping University, Sweden
+Malik Ghallab (LAAS-CNRS, France
+Sarit Kraus (Bar Ilan University, Israel
+Jeffrey Mark Siskind (Purdue University, USA
+Esra Erdem (Sabanci University, Turkey
+Douglas Fisher (Vanderbilt University, USA
+Malte Helmert (University of Basel, Switzerland
+Mausam (Indian Institute of Technology Delhi, India
+Christopher Kiekintveld (University of Texas El Paso, USA
+Daniel Lowd (University of Oregon, USA
+David Aha (Naval Research Laboratory, USA
+David Roberts (North Carolina State University, USA
+Daniele Magazzeni (King's College London, UK
+Pradeep Varakantham (Singapore Management University, Singapore
+Sriraam Natarajan (Indiana University, USA
+Nathan Sturtevant (University of Denver, USA
+William Yeoh (New Mexico State University, USA
+Jingrui He (Arizona State University, USA
+Daniel Lizotte (University of Western Ontario, Canada
+Nick Hawes (University of Birmingham, UK
+George Konidaris (Duke University, USA
+Sabine Hauert (University of Bristol, UK
+Charles Isbell (Georgia Institute of Technology
+Blai Bonet (Universidad Simón Bolívar
+Amy McGovern (University of Oklahoma, USA
+Kiri Wagsta  (Jet Propulsion Laboratory, USA
+Sarah Brown (Northeastern University, USA
+Marzyeh Ghassemi (Massachusetts Institute of Technology, USA
+Toby Walsh (Data61, Australia
+Mykel Kochenderfer (Stanford University, USA
+Ella Atkins (University of Michigan, USA
+Sandip Sen (University of Tulsa
+Eugene Agichtein (Yahoo Labs and Emory University, USA
+Animashree Anandkumar (Cornell University, USA
+Ognjen	Arandjelovic (Deakin University, Australia
+Fahiem Bacchus (University of Toronto, Canada
+Maria-Florina Balcan (Carnegie Mellon University, USA
+Chitta Baral (Arizona State University, USA
+Michael Beetz (Technische Universitaet Muenchen, Germany
+Jeff Bilmes (University of Washington, USA
+Danushka Bollegala (The University of Liverpool, UK
+Craig Boutilier (Google, USA
+Michael Bowling (University of Alberta, Canada
+Emma Brunskill (Carnegie Mellon University, USA
+Vinay Chaudhri (SRI International, USA
+Nitesh V. Chawla (University of Notre Dame, USA
+Yiling Chen (Harvard University, USA
+Colin Cherry (National Research Council Canada, Canada
+Seungjin Choi (Pohang University of Science and Technology, The Republic of Korea
+Alessandro Cimatti (FBK-irst, Italy
+Jason Corso (University of Michigan, USA
+Fabio Cozman (Universidade de Sao Paulo, Brasil
+Sanmay Das (Washington University in St. Louis, USA
+Jesse Davis (KU Leuven, Belgium
+Larry Davis (University of Maryland, USA
+Luc De Raedt (Katholieke Universiteit Leuven, Belgium
+Dennis Decoste (eBay Research Labs, USA
+Bruce Draper (Colorado State University, USA
+Ed Durfee (University of Michigan, USA
+Jennifer Dy (Northeastern University, USA
+Eric Eaton (University of Pennsylvania, USA
+Thomas Eiter (Vienna University of Technology, Austria
+Edith Elkind (University of Oxford, UK
+Ulle Endriss (ILLC, University of Amsterdam, Netherlands
+James Fan (IBM, USA
+Ariel Felner (Ben-Gurion University, Israel
+Kobi Gal (Ben Gurion University, Israel
+Nicola Gatti (Politecnico di Milano, Italy
+Christopher Geib (Drexel University, USA
+Carla Gomes (Cornell University, USA
+Jonathan Gratch (University of Southern California, USA
+Amy Greenwald (Brown University, USA
+Russell Greiner (University of Alberta, Canada
+Yuhong Guo (Temple University, USA
+Milos Hauskrecht (University of Pittsburgh, USA
+Yulan He (Aston University, UK
+Kaizhu Huang (Xi'an Jiaotong-Liverpool University, China
+Manfred Jaeger (Aalborg University, Denmark
+Kristian Kersting (TU Dortmund University, Germany
+Roni Khardon (Tufts University, USA
+Jihie Kim (Samsung Electronics, Korea
+Irwin King (The Chinese University of Hong Kong, Hong Kong
+Grzegorz Kondrak (University of Alberta, Canada
+Andreas Krause (ETH Zurich, Switzerland
+James Kwok (Hong Kong University of Science and Technology, Hong Kong
+Gerhard Lakemeyer (RWTH Aachen University, Germany
+Jérôme Lang (LAMSADE, France
+Mirella Lapata (University of Edinburgh, UK
+Honglak Lee (University of Michigan, USA
+Jens Lehmann (Universität Leipzig, Germany
+Kevin Leyton-Brown (University of British Columbia, Canada
+Yuliya Lierler (University of Nebraska at Omaha, USA
+Fangzhen Lin (HKUST, Hong Kong
+Zhouchen Lin (Peking University, China
+Tie-Yan Liu (Microsoft Research, China
+Jiebo Luo (University of Rochester, USA
+Sridhar Mahadevan (University of Massachusetts, USA
+Dragos Margineantu (Boeing Research and Technology, USA
+Shaul Markovitch (Technion, Israel
+Deborah McGuinness (Rensselaer Polytechnic Institute, USA
+Sheila McIlraith (University of Toronto, Canada
+Deyu Meng (Xi'an Jiaotong University, China
+Rada Mihalcea (University of Michigan, USA
+Michela Milano (University of Bologna, Italy
+Vincent Ng (University of Texas at Dallas, USA
+Alexandru Niculescu-Mizil (NEC Labs America, USA
+Edwin Olson (University of Michigan, USA
+Simon Parsons (University of Liverpool, UK
+Yuxin Peng (Peking University, China
+David Pennock (Microsoft Research, USA
+David Poole (University of British Columbia, Canada
+Pascal Poupart (University of Waterloo, Canada
+David Pynadath (Institute for Creative Technologies, University of Southern California, USA
+Iyad Rahwan (Massachusetts Institute of Technology, USA
+Jussi Rintanen (Aalto University, Finland
+Francesca Rossi (University of Padova, Italy
+Dan Roth (University of Illinois at Urbana-Champaign, USA
+Cynthia Rudin (Massachusetts Institute of Technology, USA
+Scott Sanner (Oregon State University, USA
+David Sarne (Bar-Ilan University, Israel
+Bart Selman (Cornell University, USA
+Christian Shelton (University of California, Riverside, USA
+Satinder Singh (University of Michigan, USA
+Vikas Singh (University of Wisconsin Madison, USA
+Csaba Szepesvari (University of Alberta, Canada
+Prasad Tadepalli (Oregon State University, USA
+Matthew E. Taylor (Washington State University, USA
+Michael Thielscher (The University of New South Wales, Australia
+Francesca Toni (Imperial College London, UK
+Ivor Tsang (University of Technology, Sydney, Australia
+Lyle Ungar (University of Pennsylvania, USA
+Pascal van Hentenryck (University of Michigan, USA
+Rene Vidal (Johns Hopkins University, USA
+Yevgeniy Vorobeychik (Vanderbilt University, USA
+Shimon Whiteson (University of Oxford, UK
+Brian Williams (Massachusetts Institute of Technology, USA
+Michael Wooldridge (University of Oxford, UK
+Jianxin Wu (Nanjing University, China
+Dit-Yan Yeung (Hong Kong University of Science and Technology, Hong Kong
+Neil Yorke-Smith (American University of Beirut, Lebanon
+Changhe Yuan (Queens College/City University of New York, USA
+Hongyuan Zha (Georgia Institute of Technology, USA
+Weixiong Zhang (Washington University in St. Louis, USA
+Xinhua Zhang (NICTA and ANU, Australia
+Zhi-Hua Zhou (Nanjing University, China
+Jerry Zhu (University of Wisconsin-Madison, USA
+Jun Zhu (Tsinghua University, China
+AAAI-16 Program Committee:
+Yasin Abbasi-Yadkori (Queensland University of Technology
+Sherief Abdallah (British University in Dubai and University of Edinburgh
+Henny Admoni (Yale University
+Arvind Agarwal (Xerox Research Center Webster
+Eneko Agirre (University of the Basque Country
+Stéphane Airiau (LAMSADE - Université Paris-Dauphine
+Akiko Aizawa ( The University of Tokyo
+Takuya Akiba (The University of Tokyo
+Aamena Alshamsi (Masdar Institure of Science and Technology
+Christopher Amato (University of New Hampshire
+Leila Amgoud (IRIT - CNRS
+Kareem Amin (University of Michigan
+Eyal Amir (University of Illinois Urbana-Champaign
+Hadi Amiri (Department of Computer Science, University of Maryland
+Saeed Amizadeh (Yahoo Labs
+Bo An (Nanyang Technological University
+Charles Anderson (Colorado State University
+Elliot Anshelevich (RPI
+Alessandro Antonucci (IDSIA
+Ricardo Araujo (UFPel
+Christopher Archibald (Mississippi State University
+Alessandro Armando (DIBRIS - University of Genova
+Katie Atkinson (University of Liverpool
+Tsz-Chiu Au (Ulsan National Institute of Science and Technology
+Peter Auer (University of Leoben
+Amos Azaria (Carnegie Mellon University
+Haris Aziz (NICTA and UNSW
+Tim Baarslag (University of Southampton
+Christer Bäckström (Linköping University
+Aijun Bai (UC Berkeley
+Jorge Baier (Pontificia Universidad Católica de Chile
+Marcello Balduccini (Drexel University
+David Balduzzi (Victoria University of Wellington
+Dana Ballard (University of Texas at Austin
+Bikramjit Banerjee (The University of Southern Mississippi
+Bonny Banerjee (University of Memphis
+Forrest Sheng Bao (State University of New York at Stony Brook
+Laura Barbulescu (Carnegie Mellon University
+Elias Bareinboim (Purdue University
+Ken Barker (IBM Watson Research
+Leliane N. Barros (Universidade de Sao Paulo
+Peter Bartlett (UC Berkeley
+Nicola Basilico (Università degli Studi di Milano
+Dorothea Baumeister (Universitaet Duesseldorf
+Ana L. C. Bazzan (Universidade Federal do Rio Grande do Sul
+Xiaohui Bei (Nanyang Technological University
+Ramon Bejar (University of Lleida
+Francesco Belardinelli (Université d'Evry
+Vaishak Belle (University of Toronto
+Marc G. Bellemare (Google DeepMind
+Brandon Bennett (University of Leeds
+Russell Bent (Los Alamos national Laboratory
+David Bergman (University of Connecticuut
+Sara Bernardini (King's College London
+Armin Biere (Johannes Kepler University
+Elizabeth Black (King's College London
+Daan Bloembergen (University of Liverpool
+Jim Blythe (USC Information Sciences Institute
+Zahy Bnaya (Ben Gurion University
+Mark Boddy (Adventium Labs
+James Boerkoel (Harvey Mudd College
+Bart Bogaerts (KU Leuven
+Blai Bonet (USB
+Alessio Bonfietti (university of bologna
+Edwin Bonilla (The University of New South Wales
+Richard Booth (Mahasarakham University
+Byron Boots (Georgia Institute of Technology
+Alex Borgida (Rutgers University
+Branislav Bosansky (Aarhus University
+Tibor Bosse (Vrije Universiteit Amsterdam
+Adi Botea (IBM Research
+Haitham Bou Ammar (Maastricht University
+Sylvain Bouveret (LIG - Grenoble INP
+Kristy Elizabeth Boyer (North Carolina State University
+Ronen Brafman (Ben-Gurion University
+Simina Brânzei (University of Waterloo
+Ivan Bratko (University of Ljubljana
+Robert Bredereck (TU Berlin
+Remi Brochenin (University of Genova
+Joost Broekens (TU Delft
+Daniel Bryce (SIFT, LLC
+Ceren Budak (Microsoft Research
+Olivier Buffet (INRIA / LORIA
+Wolfram Burgard (Dep. of Computer Science, Univ. of Freiburg
+Michael Burl (JPL
+Pedro Cabalar (University of Corunna
+Deng Cai (Zhejiang University
+Shaowei Cai (Institute of Software, Chinese Academy of Sciences
+Erik Cambria (Nanyang Technological University
+Longbing Cao (Faculty of IT, University of Technology Sydney
+Cornelia Caragea (University of North Texas
+Bruno Castro Da Silva (MIT
+Tristan Cazenave (Université de Paris Dauphine
+Jesus Cerquides (IIIA-CSIC
+Joyce Chai (MSU
+Brahim Chaib-Draa (Laval University
+Michal Chalamish (Ashkelon Academic College
+Georgios Chalkiadakis (Technical University of Crete
+Edward Chang (Google Research
+Hong Chang (Institute of Computing Technology, Chinese Academy of Sciences
+Kai-Wei Chang (Microsoft Research New England
+Sanjay Chawla (Qatar Computing Research Institute
+Rama Chellappa (University of Maryland
+Changyou Chen (Duke University
+Enhong Chen (University of Science and Technology of China
+Ling Chen (University of Technology, Sydney
+Ning Chen (Tsinghua University
+Wei Chen (Microsoft Research Asia
+Yin Chen (scnu
+Yutian Chen (University of Cambridge
+Zheng Chen (Microsoft Research Asia
+Li Cheng (Bioinformatics Institute, A*STAR
+Shih-Fen Cheng (Singapore Management University
+Sonia Chernova (Worcester Polytechnic Institute
+Jackie Cheung (McGill University
+William K. Cheung (Hong Kong Baptist University
+Yann Chevaleyre (universite paris nord
+David Chiang (University of Notre Dame
+Kyunghyun Cho (NYU
+Arthur Choi (UCLA
+Heeyoul Choi (Indiana University
+Jaesik Choi (Ulsan National Institute of Science and Technology
+Christos Christodoulopoulos (University of Illinois at Urbana-Champaign
+Geoffrey Chu (University of Melbourne
+Jen Jen Chung (Oregon State University
+Moo Chung (University of Wisconsin-Madison
+Philipp Cimiano (University of Bielefeld
+Andre Cire (University of Toronto Scarborough
+Jens Classen (RWTH Aachen University
+Bradley Clement (Jet Propulsion Laboratory
+Gari Clifford (Emory University and Georgia Institute of Technology
+Sharlee Climer (Washington University in St. Louis
+Maxwell Collins (University of Wisconsin-Madison
+Gao Cong (Nanyang Technological University
+Stefano Coniglio (RWTH Aachen University
+Gabriella Cortellessa (CNR - National Research Council of Italy
+Bart Craenen (University of Edinburgh
+Jacob Crandall (Masdar Institute of Science and Technology
+Matthew Crosby (Edinburgh University
+Bernardo Cuenca Grau (University of Oxford
+Peng Cui (Tsinghua University
+Aron Culotta (Illinois Institute of Technology
+James Cussens (University of York
+Xinyu Dai (National Key Lab for Novel Software Technology, Nanjing University
+Adnan Darwiche (University of California, Los Angeles
+Denver Dash (Intel
+Mehdi Dastani (Utrecht University
+Jessica Davies (University of Toronto
+Cassio De Campos (Queen's University Belfast
+Broes De Cat (K.U.Leuven, Belgium
+Giuseppe De Giacomo (Sapienza Universita' di Roma
+Adrià De Gispert (SDL Research
+Johan de Kleer (Palo Alto Research Center, Inc.
+Celso de Melo (University of Southern California
+Gerard de Melo (Tsinghua University
+Mathijs De Weerdt (Delft University of Technology
+Marc Denecker (K.U.Leuven
+Kun Deng (University of Michigan
+Zhi-Hong Deng (Peking University
+Leon Derczynski (University of Sheffield
+Tommaso Di Noia (Politecnico di Bari
+Fernando Diaz (Microsoft Research
+Nemanja Djuric (Yahoo Labs
+Sidney D'Mello (University of Notre Dame
+Minh Do (NASA Ames Research Center
+Peter Dolog (Aalborg University
+Justin Domke (NICTA
+Wen Dong (SUNY Buffalo
+Janardhan Rao Doppa (Washington State University
+Britta Dorn (Universität Tübingen
+Prashant Doshi (University of Georgia
+Jon Doyle (North Carolina State University
+Kurt Driessens (Maastricht University
+Marek Druzdzel (University of Pittsburgh, Bialystok University of Technology
+Lan Du (Monash University
+Lixin Duan (SAP
+Kevin Duh (NTT
+Ambedkar Dukkipati (Indian Institute of Science Bangalore
+Michel Dumontier (Stanford University
+Paul Dunne (University of Liverpool
+Stefan Edelkamp (University of Bremen
+Shady Elbassuoni (American University of Beirut
+Alessandro Epasto (Brown University
+Gabor Erdelyi (Universitaet Siegen
+Seyda Ertekin (Pennsylvania State University
+Wolfgang Faber (University of Huddersfield
+Piotr Faliszewski (AGH University of Science and Technology
+Boi Faltings (EPFL
+Xiuyi Fan (Department of Computing, Imperial College London
+Rui Fang (Thomson Reuters
+Yi Fang (Santa Clara University
+Helene Fargier (IRIT-CNRS
+Alessandro Farinelli (Verona University
+Shaheen Fatima (Loughborough University
+Alexander Feldman (PARC Inc.
+Anna Feldman (Montclair State University
+Jiashi Feng (National University of Singapore
+Cornelia Fermuller (UMIACS
+Xiaoli Fern (Oregon State University
+Alexander Ferrein (FH Aachen University of Applied Sciences
+Aris Filos-Ratsikas (Aarhus University
+Alberto Finzi (Universita' di Napoli Federico II
+Valeria Fionda (University of Calabria
+Pierre Flener (Uppsala University
+Nicoletta Fornara (Universita della Svizzera Italiana, Lugano
+Dean Foster (University of Pennsylvania
+Eibe Frank (University of Waikato
+Ophir Frieder (Georgetown University
+Yanwei Fu (Disneyresearch Pittsburgh
+Yun Fu (Northeastern University
+Yasuhiro Fujiwara (NTT
+Tim Furche (Oxford University
+Johannes Fürnkranz (TU Darmstadt
+Alona Fyshe (Carnegie Mellon University
+Alfredo Gabaldon (Carnegie Mellon University-Silicon Valley
+Sarah Alice Gaggl (Technische Universität Dresden
+Avigdor Gal (Technion
+Aram Galstyan (USC/ISI
+Niloy Ganguly (Indian Institute of Technology Kharagpur
+Sam Ganzfried (Carnegie Mellon University
+Alice Gao (Harvard University
+Jing Gao (University at Buffalo
+Yang Gao (Imperial College London
+Roman Garnett (University of Bonn
+Marco Gavanelli (University of Ferrara
+Hector Geffner (ICREA and Universitat Pompeu Fabra
+Michael Gelfond (Texas Tech University
+Xin Geng (Southeast University
+Kallirroi Georgila (University of Southern California
+Alborz Geramifard (MIT
+Enrico Gerding (University of Southampton
+Alfonso Emilio Gerevini (University of Brescia
+Anatole Gershman (Carnegie Mellon University
+Carmen Gervet (Université de Savoie, LISTIC
+Mina Gheiratmand (University of Alberta
+Chiara Ghidini (FBK-irst
+Soumya Ghosh (Disney Research
+Massimiliano Giacomin (University of Brescia
+Bryan Gibson (University of Wisconsin-Madison
+C. Lee Giles (Pennsylvania State University
+Kevin Gimpel (Toyota Technological Institute at Chicago
+Maria Gini (University of Minnesota
+Alex Gittens (International Computer Science Institute
+Alessandro Giusti (IDSIA
+Piotr Gmytrasiewicz (University of Illinois at Chicago
+Robert Goldman (SIFT, LLC
+Judy Goldsmith (University of Kentucky
+Dan Goldwasser (University of Maryland
+Manuel Gomez Rodriguez (MPI for Software Systems
+Andrew Gordon (University of Southern California
+Mihajlo Grbovic (Yahoo! Labs
+Gianluigi Greco (University of Calabria
+Tal Grinshpoun (Ariel University
+Roger Grosse (University of Toronto
+Davide Grossi (University of Liverpool
+Daniel Gruhl (IBM Almaden Research Center
+Michael Gruninger (University of Toronto
+Marek Grzes (University of Kent
+Stefano Gualandi (AntOptima, SA
+Tias Guns (KU Leuven
+Mingyu Guo (University of Adelaide
+Julian Gutierrez (University of Oxford
+Stephen Guy (University of Minnesota
+Ben Hachey (University of Sydney
+Gholamreza Haffari (Monash University
+Hannaneh Hajishirzi (University of Washington
+Bohyung Han (POSTECH
+J. Han (Northwestern Polytechnical University
+Lei Han (Hong Kong Baptist University
+Satoshi Hara (IBM Research - Tokyo
+James Harland (RMIT University
+Paul Harrenstein (University of Oxford
+Mark Hasegawa-Johnson (University of Illinois at Urbana-Champaign
+Avinatan Hassidim (Hebrew University Jerusalem Israel
+Noam Hazon (Ariel University
+Dongxiao He (Tianjin University
+Xuming He (NICTA
+Emmanuel Hebrard (LAAS, CNRS
+Daniel Hennes (European Space Agency
+Ulf Hermjakob (USC Information Sciences Institute
+Andreas Herzig (IRIT-CNRS
+Qirong Ho (Institute for Infocomm Research, A*STAR
+Martin Hoefer (Max-Planck-Institut für Informatik
+Jesse Hoey (University of Waterloo
+Joerg Hoffmann (Saarland University
+Andreas Hofmann (Massachusetts Institute of Technology
+Steven Hoi (Singapore Management University
+Arjen Hommersom (University of Nijmegen
+Vasant Honavar (Pennsylvania State University
+Ian Horswill (Northwestern University
+Estevam Hruschka Junior (UFSCar - Federal University of Sao Carlos
+Cho-Jui Hsieh (UT Austin
+Jane Hsu (National Taiwan University
+Xia Hu (Texas A&M University
+Heng Huang (Univ. of Texas at Arlington
+Sheng-Jun Huang (Nanjing University of Aeronautics and Astronautics
+Songfang Huang (IBM
+Weilin Huang (SIAT, Chinese Academy of Sciences
+Anthony Hunter (University College London
+Frank Hutter (University of Freiburg
+Sung Ju Hwang (Ulsan National Institute of Science and Technology
+Daniela Inclezan (Miami University
+Rishabh Iyer (University of Washington, Seattle
+Wojtek Jamroga (Polish Academy of Sciences
+Matti Järvisalo (University of Helsinki
+Philippe Jégou (LSIS - UMR CNRS 7296 - Aix-Marseille Université
+Chad Jenkins (University of Michigan
+David Jensen (University of Massachusetts Amherst
+Rahul Jha (University of Michigan
+Jianmin Ji (School of CS, University of Science and Technology of China.
+Qiang Ji (Rensselaer Polytechnic Institute
+Shen Jialie (Singapore Management University
+Jing Jiang (Singapore Management University
+Cheng Jin (Fudan University
+Di Jin (Tianjin University
+Charles Jochim (IBM Research -- Ireland
+Peter Jonsson (Link\"{o}ping University
+Saket Joshi (Cycorp
+Brendan Juba (Washington University in St. Louis
+Michael Kaisers (CWI
+Nathan Kallus (Massachusetts Institute of Technology
+Ece Kamar (Microsoft Research
+Eric Jui-Yi Kao (Stanford University
+Purushottam Kar (Microsoft Research India
+Amin Karbasi (Yale University
+Ian Kash (Microsoft Research Cambridge
+Samuel Kaski (Aalto University
+Michael Katehakis (Rutgers
+George Katsirelos (INRA, Toulouse
+Benjamin Kaufmann (University of potsdam
+Elisa Kendall (Thematix Partners LLC
+Jeffrey Kephart (IBM T.J. Watson Research Center
+Peter Key (Microsoft Research
+Latifur Khan (UTD
+Sheehan Khan (University of Alberta
+Been Kim (MIT
+Junmo Kim (KAIST
+Kee-Eung Kim (KAIST
+Seyoung Kim (Carnegie Mellon University
+Angelika Kimmig (KU Leuven
+Akihiro Kishimoto (IBM Research - Ireland
+Hiroyuki Kitagawa (University of Tsukuba
+Zeynep Kiziltan (University of Bologna
+Samantha Kleinberg (Stevens Institute of Technology
+Marius Kloft (HU Berlin
+Jens Kober (TU Delft
+Levente Kocsis (MTA SZTAKI
+Jana Koehler (Hochschule Luzern
+Varun Raj Kompella (Institute of Neural Computation, Ruhr University Bochum
+Deguang Kong (Penn State University
+Xiangnan Kong (WPI
+Roman Kontchakov (Birkbeck, University of London
+Stefan Kopp (Bielefeld University
+Parisa Kordjamshidi (UIUC
+Richard Korf (UCLA
+Lars Kotthoff (University of British Columbia
+Manolis Koubarakis (National and Kapodistrian University of Athens
+Danai Koutra (Carnegie Mellon University
+Vladik Kreinovich (University of Texas at El Paso
+Per Ola Kristensson (University of Cambridge
+Lun-Wei Ku (Institute of Information Science, Academia Sinica
+Daniel Kudenko (University of York
+Benjamin Kuipers (University of Michigan
+Akshat Kumar (Singapore Management University
+Rohit Kumar (Raytheon BBN Technologies
+Maithilee Kunda (Georgia Institute of Technology
+Gourab Kundu (IBM
+Lars Kunze (University of Birmingham
+Ugur Kuter (Smart Information Flow Technologies
+Ondrej Kuzelka (KU Leuven
+Branislav Kveton (Adobe Research
+Johan Kwisthout (Radboud University Nijmegen
+Prashanth L.A. (Indian Institute of Science
+Finley Lacatusu (Language Computer Corporation
+Martin Lackner (Vienna University of Technology
+Sebastien Lahaie (Microsoft Research
+Morteza Lahijanian (Rice University
+Hanjiang Lai (National University of Singapore, Sun Yat-Sen University
+Kiran Lakkaraju (Sandia National Laboratories
+Wai Lam (The Chinese University of Hong Kong
+Luis Lamb (Federal University of Rio Grande do Sul
+Nicolas Lambert (Stanford University
+Gerasimos Lampouras (Athens Univercity of Economics and Business
+Brent Lance (US Army Research Laboratory - Translational Neuroscience Branch
+Marc Lanctot (Maastricht University
+Nikolay Laptev (Yahoo
+Kate Larson (University of Waterloo
+Kathryn Laskey (George Mason University
+Tor Lattimore (University of Alberta
+Hoong Chuin Lau (Singapore Management University
+Soeren Laue (University of Jena, Germany
+Hady Lauw (Singapore Management University
+François Laviolette (Université Laval
+Freddy Lecue (IBM Research
+Jimmy Lee (The Chinese University of Hong Kong
+Joohyung Lee (Arizona State University
+Uichin Lee (KAIST
+Iolanda Leite (INESC-ID
+Joao Leite (NOVA LINCS, Universidade NOVA de Lisboa
+Maurizio Lenzerini (University of Rome "La Sapienza"
+Matteo Leonetti (University of Texas at Austin
+Marius Leordeanu (Institute of Mathematics of the Romanian Academy
+Joshua Letchford (Sandia National Laboratories
+Ben Letham (Facebook
+Cane Wing-Ki Leung (Wisers Research
+Chu-Min Li (Université de Picardie Jules Verne
+Fuxin Li (Georgia Institute of Technology
+Ming Li (Nanjing University
+Ping Li (Rutgers University
+Sanjiang Li (University of Technology Sydney
+Wenye Li (Macao Polytechnic Institute
+Wu-Jun Li (Nanjing University
+Xiaoli Li (Institute for Infocomm Research
+Yufeng Li (nanjing university
+Maria Liakata (University of Warwick
+Shizhong Liao (Tianjin University
+Vladimir Lifschitz (University of Texas
+Chih-Jen Lin (National TaiwanUniv
+Hsuan-Tien Lin (National Taiwan University
+Liang Lin (Sun Yat-Sen University
+Ming Lin (University of Michigan
+Shou-De Lin (National Taiwan University
+Zuoquan Lin (PKU
+Carlos Linares Lopez (Universidad Carlos III de Madrid
+Marius Lindauer (University of Freiburg
+Qing Ling (USTC
+Marco Lippi (University of Bologna
+Francesca Alessandra Lisi (Università degli Studi di Bari "Aldo Moro"
+Viliam Lisy (Czech Technical University in Prague
+Michael Littman (Brown University
+Bing Liu (University of Illinois at Chicago
+Fei Liu (Carnegie Mellon University
+Guangcan Liu (Cornell University
+Huan Liu (Arizona State University
+Jie Liu (University of Wisconsin-Madison
+Qiang Liu (Dartmouth College
+Shenghua Liu (Chinese Academy of Sciences
+Xiaobai Liu (ucla.edu
+Yan Liu (University of Southern California
+Yang Liu (University of Texas at Dallas
+Yiqun Liu (Tsinghua University
+Yongmei Liu (Sun Yat-sen University
+Zhiyuan Liu (Tsinghua University
+Peter Ljunglöf (University of Gothenburg and Chalmers University of Technology
+Jorge Lobo (ICREA and Universitat Pompeu Fabra
+Frank Loebe (University of Leipzig
+Michele Lombardi (DISI, University of Bologna
+Alessio Lomuscio (Imperial College London
+Steven Loscalzo (Air Force Research Laboratory Information Directorate
+Annie Louis (University of Edinburgh
+Bryan Kian Hsiang Low (National University of Singapore
+Tomas Lozano-Perez (MIT
+Jiwen Lu (Advanced Digital Sciences Center, Singapore
+Wei Lu (Singapore University of Technology and Design
+Benjamin Lubin (Boston University
+Thomas Lukasiewicz (University of Oxford
+Jose Marcio Luna (University of Pennsylvania
+Ping Luo (The Chinese University of Hong Kong
+Ines Lynce (INESC-ID/IST, University of Lisbon
+Michael Lyu (the Chinese University of Hong Kong
+Shiqian Ma (The Chinese University of Hong Kong
+James Macglashan (Brown University
+Omid Madani (SRI International, AI Center
+Brad Malin (Vanderbilt University
+David Manlove (University of Glasgow
+Andrew Mao (Harvard University
+Qi Mao (SUNY at Buffalo
+Wenji Mao (Institute of Automation, Chinese Academy of Sciences
+Marco Maratea (DIBRIS, University of Genova
+Daniel Marcu (ISI/USC
+Evangelos Markakis (Athens University of Economics and Business
+Pierre Marquis (CRIL-CNRS and Université d'Artois
+David Martin (Nuance Communications
+Zoltan-Csaba Marton (German Aerospace Center (DLR
+Jérémie Mary (INRIA Lille Nord Europe - équipe Sequel
+Jonathan Masci (IDSIA
+Nicholas Mattei (NICTA and University of New South Wales
+Cynthia Matuszek (University of Maryland Baltimore County
+Denis Maua (Universidade de Sao Paulo
+Nicolas Maudet (Université Paris 6
+Julian Mcauley (UC San Diego
+Jim Mccusker (Rensselaer Polytechnic Institute
+Wannes Meert (KU Leuven
+Ernestina Menasalvas (Universidad Politecnica de madrid
+Pablo Mendes (IBM Research Almaden
+Felipe Meneguzzi (Pontifical Catholic University of Rio Grande do Sul
+Yunsong Meng (Samsung Research America
+Ole Mengshoel (Carnegie Mellon University
+Pedro Meseguer (IIIA - CSIC
+John-Jules Meyer (Utrecht University
+Thomas Meyer (Centre for Artificial Intelligence Research, UKZN and CSIR Meraka
+Tomasz Michalak (University of Oxford and University of Warsaw
+Laurent Michel (University of Connecticut
+Alessandra Mileo (National University of Ireland, Galway, INSIGHT Centre for Data Analytics
+Simon Miles (King's College London
+Joseph Modayil (Google DeepMind
+Saif Mohammad (NRC
+Shiwali Mohan (Palo Alto Research Center
+Mehryar Mohri (Courant Institute of Mathematical Sciences
+Sebastian Moreno (Purdue University
+Leora Morgenstern (Leidos
+Boris Motik (University of Oxford
+Kira Mourão (University of Edinburgh
+Emily Mower Provost (University of Michigan
+Martin Mueller (University of Alberta
+Stephen Muggleton (Imperial College London
+Arjun Mukherjee (University of Houston
+Lopa Mukherjee (University of Wisconsin Whitewater
+Enrique Munoz De Cote (National Institute of Astrophysics, Optics and Electronics
+Aniello Murano (Universita' di Napoli "Federico II"
+Robin Murphy (Texas A&M
+Susan A. Murphy (University of Michigan
+Meenakshi Nagarajan (IBM Research
+Masaaki Nagata (NTT Communication Science Laboratories
+Radhika Nagpal (Harvard University
+Ndapandula Nakashole (Carnegie Mellon University
+Daniele Nardi (University of Rome "La Sapienza"
+Nina Narodytska (Carnegie Mellon University
+Aniruddh Nath (University of Washington
+Roberto Navigli (Sapienza Universita' di Roma
+Bernhard Nebel (Albert-Ludwigs-Universitaet Freiburg
+Ani Nenkova (University of Pennsylvania
+Gerhard Neumann (TU Darmstadt
+Axel-Cyrille Ngonga Ngomo (University of Leipzig
+Vinh Nguyen (The University of Melbourne
+Maximilian Nickel (MIT
+Feiping Nie (University of Texas, Arlington
+Jian-Yun Nie (Universit de Montral
+Rolf Niedermeier (TU Berlin
+Oliver Niggemann (Institute for Industrial IT - inIT
+Evdokia Nikolova (University of Texas at Austin
+Raz Nissim (Yahoo Labs
+William Stafford Noble (University of Washington
+Richard Nock (Australian National University, NICTA
+Ann Nowe (VUB
+Ifeoma Nwogu (University at Buffalo, SUNY
+Tim Oates (University of Maryland Baltimore County
+Alice Oh (KAIST
+Jong-Hoon Oh (National Institute of Information and Communications Technology
+Nuria Oliver (Telefonica Research
+Irene Ong (University of Wisconsin-Madison Carbone Cancer Center
+Santiago Ontañón (Drexel University
+Sebastian Ordyniak (Masaryk University
+Unamay Oreilly (mit
+Nir Oren (University of Aberdeen
+Giorgio Orsi (Department of Computer Science - University of Oxford
+Luis Ortiz (Stony Brook University
+Takayuki Osogami (IBM Research - Tokyo
+Ekaterina Ovchinnikova (KIT, Karlsruhe and ICT, Uni Heidelberg
+Diane Oyen (University of New Mexico
+Arzucan Ozgur (Bogazici University
+David Page (University of Wisconsin, Madison
+Maurice Pagnucco (The University of New South Wales
+Christopher Pal (Ecole Polytechnique
+David Pal (Yahoo Labs
+Ravi Palla (Arizona State University
+Jan Wei Pan (The Boeing Company
+Jeff Z. Pan (University of Aberdeen
+Anastasia Paparrizou (CNRS-LIRMM
+Srinivasan Parthasarathy (ohio state university
+Razvan Pascanu (Google DeepMind
+Vishal Patel (University of Maryland
+Michael Paul (Johns Hopkins University
+Vladimir Pavlovic (Rutgers University
+Terry Payne (University of Liverpool
+Adrian Pearce (The University of Melbourne
+David Pearce (Universidad Politécnica de Madrid
+Federico Pecora (Mobile Robotics Lab, AASS, örebro University
+Leto Peel (Universite catholique de Louvain
+Sasa Pekec (Duke University
+Fuchun Peng (Google
+Jiming Peng (Univeristy of Houston
+Veronica Perez-Rosas (University of Michigan
+Patrice Perny (LIP6
+Gilles Pesant (\'Ecole Polytechnique de Montreal
+Ron Petrick (University of Edinburgh
+Massimo Piccardi (Faculty of IT, UTS
+Andreas Pieris (Vienna University of Technology
+Georgios Piliouras (Singapore University of Technology and Design
+Joelle Pineau (McGill University
+Paulo Pinheiro (Rensselaer Polytechnic Institute
+Maria Silvia Pini (University of Padova
+Fiora Pirri (University of Rome, Sapienza
+Barbara Plank (University of Copenhagen
+John Platt (Google
+Tamara Polanjar (University of Cambridge
+Maria Polukarov (University of Southampton
+Enrico Pontelli (New Mexico State University
+Leonard Poon (HKIEd
+Daniele Porello (Institure for Cognitive Sciences and Technologies, ISTC, CNR
+Doina Precup (McGill University
+Daniel Preotiuc-Pietro (University of Pennsylvania
+Bob Price (PARC
+Yanjun Qi (University of Virginia.edu
+Tao Qin (Microsoft Research Asia
+Novi Quadrianto (University of Sussex
+Claude-Guy Quimper (Université Laval
+Zinovi Rabinovich (Mobileye Vision Technologies Ltd.
+Luis Rademacher (Ohio State University
+Milos Radovanovic (University of Novi Sad
+Piyush Rai (Duke University
+Anita Raja (Cooper Union
+Liva Ralaivola (Laboratoire d'Informatique Fondamentale de Marseille
+Ganesh Ramakrishnan (IIT Bombay
+Sarvapali Ramchurn (University of Southampton
+Aaditya Ramdas (Carnegie Mellon University
+Siamak Ravanbakhsh (University of Alberta
+Balaraman Ravindran (Indian Institute of Technology Madras
+Soumya Ray (Case Western Reserve University
+Chandan K. Reddy (Wayne State University
+Christoph Redl (Vienna University of Technology
+Jean-Charles Regin (Université Nice-Sophia Antipolis
+Jochen Renz (ANU
+Marcello Restelli (Politecnico di Milano
+Achim Rettinger (Karlsruhe Institute of Technology
+Lev Reyzin (University of Illinois at Chicago
+Francesco Ricca (Department of Mathematics University of Calabria
+Ariella Richardson (Jerusalem College of Technology
+Mark Riedl (Georgia Institute of Technology
+Fabrizio Riguzzi (University of Ferrara
+Mark Roberts (NRC Postdoc, Naval Research Laboratory
+Valentin Robu (Heriot-Watt University, Edinburgh
+Juan Antonio Rodriguez Aguilar (IIIA-CSIC
+Gabriele Roeger (University of Basel
+Francesco Ronzano (TALN Group, Universitat Pompeu Fabra, Barcelona
+Romer Rosales (LinkedIn
+Stephanie Rosenthal (Bossa Nova Robotics
+Jörg Rothe (Universitaet Duesseldorf
+Marie-Christine Rousset (University of Grenoble
+Michael Rovatsos (School of Informatics, The University of Edinburgh
+Marco Roveri (FBK-irst
+Alla Rozovskaya (UIUC
+Ji Ruan (Auckland University of Technology
+Zack Rubinstein (Carnegie Mellon University
+Alexander Rudnicky (Carnegie Mellon University
+Sebastian Rudolph (Technische Universität Dresden
+Michel Rueher (University of Nice Sophia Antipolis / CNRS
+Wheeler Ruml (University of New Hampshire
+Vasile Rus (The University of Memphis
+Alexander M. Rush (Harvard University
+Paul Ruvolo (Olin College of Engineering
+Michael Ryoo (Jet Propulsion Laboratory
+Ashish Sabharwal (AI2
+Abdallah Saffidine (The University of New South Wales
+Chiaki Sakama (Wakayama University
+Antonio Salmeron (University of Almería
+Horst Samulowitz (IBM Research
+Vítor Santos Costa (Universidade do Porto
+Vijay Saraswat (IBM
+Sebastian Sardina (RMIT University
+Issei Sato (University of Tokyo
+Abdul Sattar (Griffith Univeristy
+Bastin Tony Roy Savarimuthu (University of Otago
+Hiroshi Sawada (NTT
+Robert Schapire (Microsoft Research
+Pierre Schaus (UCLouvain
+Richard Scherl (Monmouth University
+Stephan Schiffel (Reykjavík University
+Steven Schockaert (Cardiff University
+Hinrich Schuetze (University of Stuttgart
+Peter Schüller (Marmara University
+Roberto Sebastiani (DISI, University of Trento
+Meinolf Sellmann (IBM Research
+Murat Sensoy (Ozyegin University
+Luciano Serafini (Fondazione Bruno Kessler
+Joan Serrà (Telefónica Research
+Sven Seuken (University of Zurich
+Paulo Shakarian (Arizona State University
+Shiguang Shan (Institute of Computing Technology, Chinese Academy of Sciences
+Guy Shani (Ben Gurion University
+Natarajan Shankar (SRI International
+Guni Sharon (Ben-Gurion University
+Onn Shehory (IBM Haifa Research Lab
+Bin Shen (Purdue University
+Dou Shen (Microsoft Adcenter Labs
+Yi-Dong Shen (Institute of Software, the Chinese Academy of Sciences
+Yuping Shen (Institute of Logic and Cognition, Department of Philosophy, Sun Yat-sen University
+Jinwoo Shin (KAIST
+Anshumali Shrivastava (Rice University
+Howard Shrobe (Massachusetts Institute of Technology
+Josefina Sierra-Santibanez (Technical University of Catalonia
+Mantas Simkus (Vienna University of Technology
+Reid Simmons (Carnegie Mellon University
+Jivko Sinapov (UT Austin
+Vikas Sindhwani (IBM Research
+Ambuj Singh (University of California, Santa Barbara
+Tomas Singliar (Amazon.com
+Balasubramanian Sivan (Microsoft Research, Redmond
+Oskar Skibski (Kyushu University
+Elizabeth Sklar (King's College London
+Piotr Skowron (University of Warsaw
+Jason Sleight (Yelp
+Kevin Small (Amazon
+Gillian Smith (Northeastern University
+Scott Smith (Boeing
+Eric Sodomka (Brown University
+Leen-Kiat Soh (University of Nebraska-Lincoln
+Shirin Sohrabi (IBM Research
+Thamar Solorio (University of Houston
+Tran Cao Son (New Mexico State University
+Dezhao Song (Thomson Reuters
+Le Song (Georgia Tech
+Yang Song (Microsoft Research
+Yangqiu Song (University of Illinois at Urbana-Champaign
+Sucheta Soundarajan (Syracuse University
+Matthijs T. J. Spaan (Delft University of Technology
+Nathan Srebro (Toyota Technological Institute -- Chicago
+Mohan Sridharan (The University of Auckland
+Vivek Srikumar (University of Utah
+Siddharth Srivastava (UC Berkeley
+Kenneth O. Stanley (University of Central Florida
+Kostas Stathis (Royal Holloway, University of London
+Roni Stern (Ben Gurion University of the Negev
+Matthew Stone (Rutgers
+Hannes Strass (Leipzig University
+Peter J. Stuckey (University of Melbourne
+Hang Su (Shanghai Jiaotong University
+Masashi Sugiyama (The University of Tokyo
+Gita Sukthankar (University of Central Florida
+Aixin Sun (Nanyang Technological University
+Xu Sun (Peking University
+Yizhou Sun (Northeastern University
+Peter Sunehag (Google - Deep Mind
+Pavel Surynek (Charles University, Prague
+Johan Suykens (K.U. Leuven, ESAT-SCD
+Jun Suzuki (NTT
+Zeeshan Syed (University of Michigan
+Pedro Szekely (USC/Information Sciences Institute
+Partha Talukdar (Indian Institute of Science
+Valentina Tamma (University of Liverpool
+Mingkui Tan (The University of Adelaide
+Xiaoyang Tan (Nanjing University of Aeronautics and Astronautics
+Huajin Tang (Instititue for Infocomm Research
+Jiliang Tang (Yahoo Labs
+Pingzhong Tang (Tsinghua University
+Yuqing Tang (Carnegie Mellon University
+Dacheng Tao (University of Technology, Sydney
+Luis Tari (GE Global Research
+Cem Tekin (Bilkent University
+Pankaj Telang (North Carolina State University
+Georgios Theocharous (Adobe
+Sylvie Thiebaux (ANU
+Yonghong Tian (Peking University
+Renato Tinós (USP
+Taiki Todo (Kyushu university
+Julian Togelius (New York University
+David Tolpin (PayPal
+Stefano Tonetta (FBK-irst
+Hanghang Tong (City College, CUNY
+Paolo Torroni (University of Bologna
+Truyen Tran (Deakin University
+Volker Tresp (Siemens AG
+Felipe Trevizan (NICTA / ANU
+Francesco Trovo (Politecnico di Milano
+Charlotte Truchet (LINA, UMR 6241, Université de Nantes
+Mirek Truszczynski (University of Kentucky
+Gilad Tsur (Yahoo labs
+Kagan Tumer (Oregon State University
+Madeleine Udell (Stanford University
+Maomi Ueno (University of Electro-Communications
+William Uther (University of New South Wales
+Masao Utiyama (NICT
+Karina Valdivia (Universidade de São Paulo
+Richard Valenzano (University of Alberta
+Guy Van den Broeck (KU Leuven
+Maarten van der Heijden (Radboud University Nijmegen
+Mihaela Van Der Schaar (University of California Los Angeles (UCLA
+Michalis Vazirgiannis (Department of Informatics, AUEB
+Miroslav Velev (Aries Design Automation
+Carmine Ventre (Teesside University
+Paolo Viappiani (CNRS and LIP6, Univ Pierre et Marie Curie
+Angelina Vidali (LIP6 - UPMC (Paris 6
+Serena Villata (INRIA Sophia Antipolis
+Andreas Vlachos (University College London
+Nikos Vlassis (Adobe
+Slobodan Vucetic (Temple University
+V.G.Vinod Vydiswaran (University of Michigan
+Byron Wallace (UT Austin
+Toby Walsh (NICTA and UNSW
+Changhu Wang (Microsoft Research Asia
+Chaokun Wang (Tsinghua University
+Hao Wang (The university of Tokyo
+Jingdong Wang (Microsoft Research Asia
+Jun Wang (Alibaba
+Ke Wang (Simon Fraser University
+Kewen Wang (Griffith University
+Lei Wang (University of Wollongong
+Li Wang (SUNY at Buffalo
+Lu Wang (Cornell University
+Meng Wang (Hefei University of Technology
+Naiyan Wang (HKUST
+Ning Wang (University of Southern California
+Shaojun Wang (Wright State University
+Shengrui Wang (University of Sherbrooke
+Yisong Wang (Guizhou University
+Yu-Chiang Frank Wang (Academia Sinica
+Yuyang Wang (Amazon
+Martin Wehrle (University of Basel
+Adrian Weller (Cambridge University
+Tim Weninger (University of Notre Dame
+Michael Wessel (TUHH
+Adam White (University of Alberta
+Martha White (Indiana University
+Bryce Wiedenbeck (University of Michigan
+Jenna Wiens (University of Michigan
+Caroline Willners (Lund University
+Nic Wilson (4C, UCC, Cork
+David Wingate (Brigham Young University
+Jens Witkowski (University of Freiburg
+Carsten Witt (Technical University of Denmark
+Frank Wolter (University of Liverpool
+Stefan Woltran (TU Wien
+Raymond Wong (University of New South Wales
+Wei Lee Woon (Masdar Institute
+John Wright (Columbia University
+Jia Wu (University of Technology, Sydney, Australia
+Lei Wu (xAd, Inc
+Wei Wu (Microsoft Research Asia
+Lirong Xia (RPI
+Caiming Xiong (University of California, Los Angeles
+Huan Xu (National University of Singapore
+Jia Xu (University of Wisconsin-Madison
+Jinhui Xu (State University of New York at Buffalo
+Jun-Ming Xu (University of Wisconsin-Madison
+Linli Xu (University of Science and Technology of China
+Ran Xu (suny buffalo
+Wei Xu (University of Pennsylvania
+Zenglin Xu (University of Electronic Science and Technology
+Narahari Yadati (Indian Institute of Science
+Yuto Yamaguchi (University of Tsukuba
+Jun Yan (Microsoft Research Asia
+Rui Yan (Peking University
+Fangkai Yang (Schlumberger Limited
+Haiqin Yang (The Chinese University of Hong Kong
+Jianbo Yang (GE
+Jie Yang (ShangHai JiaoTong University
+Meng Yang (Shenzhen University
+Shuang-Hong Yang (Twitter Inc.
+Tianbao Yang (University of Iowa
+Yang Yang (University of Notre Dame
+Yi Yang (UQ
+Roland Yap (National University of Singapore
+Jieping Ye (University of Michigan
+John Yen (The Pennsylvania State University
+William Yeoh (New Mexico State University
+Dawei Yin (Yahoo Labs
+Yuichi Yoshida (National Institute of Informatics
+Jia-Huai You (University of Alberta
+Chun-Nam Yu (University of Alberta
+Han Yu (Nanyang Technological University
+Hong Yu (Georgia Institute of Technology
+Hwanjo Yu (POSTECH
+Lei Yu (Binghamton University
+Philip Yu (University of Illinois at Chicago
+Yang Yu (Nanjing University
+Nicholas Jing Yuan (Microsoft Research
+Xiaotong Yuan (Rutgers
+Wlodek Zadrozny (UNCC
+Mohammed Zaki (RPI
+Bruno Zanuttini (GREYC, Université de Caen Basse-Normandie, CNRS UMR 6072, ENSICAEN
+Fabio Massimo Zanzotto (DISP, University of Rome "Tor Vergata"
+Yifeng Zeng (Teesside University
+De-Chuan Zhan (Nanjing University
+Byoung-Tak Zhang (Seoul National University
+Chongjie Zhang (Massachusetts Institute of Technology
+Dongmo Zhang (University of Western Sydney
+Hao Zhang (Colorado School of Mines
+Jie Zhang (Nanyang Technological University
+Kai Zhang (NEC-labs
+Kun Zhang (Max-Planck Institute for Intelligent System, Germany
+Lijun Zhang (Institute of Software, Chinese Academy of Sciences
+Ming Zhang (Peking University
+Min-Ling Zhang (School of Computer Science and Engineering, Southeast University
+Peng Zhang (University of Technology, Sydney
+Richong Zhang (Beihang University
+Xianchao Zhang (School of Software, Dalian University of Technology
+Xiangliang Zhang (King Abdullah University of Science and Technology
+Yan Zhang (University of Western Sydney
+Yu Zhang (Hong Kong Baptist University
+Yue Zhang (SUTD
+Zhihua Zhang (Shanghai Jiao Tong University
+Dengji Zhao (University of Southampton
+Dongyan Zhao (Peking University
+Hai Zhao (shanghai jiao tong university
+Jun Zhao (National Laboratory of Pattern Recognition,Institute of Automation, Chinese Academy of Sciences
+Peilin Zhao (Institute for Infocomm Research, A*STAR
+Rui Zhao (The Chinese University of Hong Kong
+Yuting Zhao (University of Aberdeen
+Yi Zhen (Georgia Institute of Technology
+Yu Zheng (Microsoft Research Aisa
+Wenliang Zhong (Hong Kong University of Science and Technology
+Chao Zhou (Baidu Incorporation
+Jiayu Zhou (Samsung Research America
+Neng-Fa Zhou (CUNY Brooklyn College and Graduate Center
+Rong Zhou (Palo Alto Research Center, Inc
+Shuigeng Zhou (Fudan University
+Xiaofang Zhou (University of Queensland
+Yi Zhou (University of Western Sydney
+Yin Zhou (University of Delaware
+Xiaodan Zhu (National Research Council Canada
+Zhiqiang Zhuang (Griffith University
+Hankz Hankui Zhuo (Department of Computer Science, Sun Yat-sen University
+Yair Zick (Carnegie Mellon University
+Brian Ziebart (Carnegie Mellon University
+Martin Zinkevich (Google, Inc.
+Roie Zivan (Ben Gurion University of the Negev
+Aviv Zohar (The Hebrew University of Jerusalem
+David Aha (Naval Research Laboratory
+James Allen (Florida Institute for Human and Machine Cognition
+Kevin Ashley (University of Pittsburgh
+Karl Branting (MITRE
+Will Bridewell (Naval Research Laboratory
+Mark Burstein (SIFT
+Michael Cox (Wright State Research Institute
+Nate Derbinsky (Wentworth Institute of Technology
+Kenneth Forbus (Northwestern University
+Christian Freksa (University of Bremen
+Ashok Goel (Georgia Institute of Technology
+David Gunning (Palo Alto Research Center
+Tom Hinrichs (Northwestern University
+W. Lewis Johnson (Alelo Inc.
+Randolph Jones (Soar Technology
+Matthew Klenk (PARC
+John Laird (University Of Michigan
+Deryle W. Lonsdale (Brigham Young University
+Mary Lou Maher (University of North Carolina Charlotte
+Matthew Molineaux (Knexus Research Corporation
+Bradford Mott (North Carolina State University
+J William Murdock (IBM Research
+Karen Myers (SRI International
+Sergei Nirenburg (RPI
+Enric Plaza (IIIA-CSIC
+Paul S. Rosenbloom (University of Southern California
+Jonathan Rowe (North Carolina State University
+Ute Schmid (University of Bamberg
+Lenhart Schubert (University of Rochester
+Dan Shapiro (University of California at Santa Cruz
+Javier Snaider (FedEx Institute of Technology #403h, The University of Memphis
+Kartik Talamadupula (IBM Research, USA
+Gheorghe Tecuci (George Mason University
+Swaroop Vattam (Naval Research Laboratory
+Arindam Banerjee (University of Minnesota
+Ken Brown (University College Cork
+Iadine Chades (CSIRO
+Ping Chen (UMB
+Theodoros Damoulas (Cornell University
+Kamalika Das (NASA Ames Research Center
+Sanmay Das (Washington University in St. Louis
+Ethan Dereszynski (Webtrends
+Bistra Dilkina (Georgia Institute of Technology
+Wei Ding (University of Massachusetts Boston
+Wilfried Elmenreich (Alpen-Adria-Universität Klagenfurt
+Stefano Ermon (Stanford
+Csar Fdez (University of Lleida
+Alexander Feldman (PARC Inc.
+Serge Fenet (Laboratoire d'InfoRmatique en Image et Systèmes d'information
+Stefan Funke (Universitaet Stuttgart
+Christian Gagne (Laval University
+Holger Hermanns (Saarland University
+Shahriar Hossain (University of Texas at El Paso
+Sebastian Lehnhoff (OFFIS - Institut für Informatik
+Martin Leucker (University of Lübeck
+Alan Mackworth (University of British Columbia
+Manish Marwah (HP Labs
+Carles Mateu (University of Lleida
+Amy McGovern (University of Oklahoma
+Simon O'Callaghan (NICTA
+Henrik Ohlsson (UC Berkeley
+Joern Ploennigs (IBM Research, Smarter Cities Technology Center
+Ariel Procaccia (Carnegie Mellon University
+Greg Provan (University College Cork
+Raviv Raich (Oregon State University
+Alex Rogers (University of Southampton
+Regis Sabbadin (INRA-UBIA
+Martin Sachenbacher (Technische Universität München
+Daniel Sheldon (University of Massachusetts
+Helmut Simonis (4C
+Sabine Storandt (University of Freiburg
+Allan Tucker (Brunel University
+Theja Tulabandhula (XRC
+John Williams (The Weather Company/WSI
+Weng-Keen Wong (Oregon State University
+Grigoris Antoniou (University of Huddersfield
+Xiao-Ping Chen (University of Science and Technology of China
+Randy Goebel (University of Alberta
+Nick Hawes (University of Birmingham
+Fredrik Heintz (Linköping University
+Joachim Hertzberg (University of Osnabrueck
+Felix Ingrand (LAAS/CNRS
+Takayuki Ito (Nagoya Institute of Technology
+Froduald Kabanza (University of Sherbrooke
+Leslie Kaelbling (MIT
+Lars Karlsson (örebro university
+George Konidaris (Duke
+Jonas Kvarnström (Linköping University
+Daniele Magazzeni (King's College London
+Tekin Meriçli (Bogazici University
+Barry O'Sullivan (4C, University College Cork, Ireland
+Michal Pechoucek (Czech Technical University in Prague
+Kanna Rajan (Monterey Bay Aquarium Research Institute
+Alessandro Saffiotti (Orebro University
+Torsten Schaub (University of Potsdam
+Luis Seabra Lopes (IEETA - DETI, UA
+Carles Sierra (IIIA
+Mary-Anne Williams (Innovation and Enterprise Research Lab, UTS
+Feng Wu (University of  Sicence and Technology of China
+Jay Young
+Michael Anderson (University of Hartford
+Chitta Baral (Arizona State University
+Mark Bedau (Reed College
+Paul Bello (Naval Research Laboratory
+Jeffrey Bilmes (University of Washington, Seattle
+Blai Boneh (USB
+Adi Botea (IBM Research
+Michael Bowling (University of Alberta
+Emma Brunskill (Carnegie Mellon University
+Vinay Chaudhri (SRI International
+Alessandro Cimatti (FBK-irst
+Luc De Raedt (Katholieke Universiteit Leuven
+Jeff Dean (Google, Inc.
+Miro Dudik (Microsoft
+Ed Durfee (University of Michigan
+Jennifer Dy (Northeastern University
+Thomas Eiter (Vienna University of Technology
+Edith Elkind (University of Oxford
+Ulle Endriss (ILLC, University of Amsterdam
+Ken Forbus (Northwestern University
+Hector Geffner (ICREA and Universitat Pompeu Fabra
+Christopher Geib (Drexel University
+Dirk Helbing (-
+Ece Kamar (Microsoft Research
+Henry Kautz (University of Rochester
+Sven Koenig (University of Southern California
+John Laird (University Of Michigan
+Gerhard Lakemeyer (RWTH Aachen University
+Jérôme Lang (LAMSADE
+Mirella Lapata (University of Edinburgh
+Henry Leiberman (Research Scientist
+Joao Leite (NOVA LINCS, Universidade NOVA de Lisboa
+Fangzhen Lin (HKUST
+Shaul Markovitch (Technion - Israel Insitute of Technology
+Bilge Mutlu (University of Wisconsin-Madison
+Hwee Tou Ng (National University of Singapore
+Ana Paiva (INESC
+Marth Palmer (University of Colorado
+Barak Pearlmutter (NUI Maynooth
+David Pennock (Microsoft Research
+David Poole (University of British Columbia
+Christopher Potts (Stanford University
+Phil Robichaud (TU Delft
+Nielsen Rodney (University of North Texas
+Jeff Rosenschein (The Hebrew University of Jerusalem
+Dan Roth (University of Illinois at Urbana-Champaign
+David Sarne (Bar-Ilan University
+Bart Selman (Cornell University
+Reid Simmons (Carnegie Mellon University
+Kenneth Stanley (University of Central Florida
+Francesca Toni (Imperial College London
+Pascal Van Hentenryck (University of Michigan
+Moshe Vardi (Rice University
+Manuela Veloso (Carnegie Mellon University
+Wlodek Zadrozny (UNCC
+Luiza Antonie (University of Guelph
+Leah Hackman (University of Alberta
+Michael Johanson (University of Alberta
+George Konidaris (Duke
+Anna Koop (University of Alberta
+Lihong Li (Microsoft Research
+Carlos Linares Lopez (Universidad Carlos III de Madrid
+Dave Meger (McGill University
+Barnabas Poczos (Carnegie Mellon University
+Rhiannon Rose (University of Western Ontario
+Adam White (Indiana University
+Martha White (Indiana University
+Noa Agmon (Bar-Ilan University
+Bo An (Nanyang Technological University
+Philip Chan (Florida Institute of Technology
+Sonia Chernova (Worcester Polytechnic Institute
+Hana Chockler (King's College
+Bradley Clement (Jet Propulsion Laboratory
+Jesse Davis (KU Leuven
+Marie desJardins (UMBC
+Janardhan Rao Doppa (Washington State University
+Eric Eaton (University of Pennsylvania
+Edith Elkind (University of Oxford
+Piotr Faliszewski (AGH University of Science and Technology
+Jeremy Frank (NASA
+Maria Gini (University of Minnesota
+Benjamin Hirsch (EBTIC / Khalifa University
+Ayanna Howard (Georgia Institute of Technology
+Henry Kautz (University of Rochester
+Christopher Kiekintveld (University of Texas at El Paso
+Sven Koenig (University of Southern California
+Maxim Likhachev (Carnegie Mellon University
+Daniele Magazzeni (King's College London
+Tim Miller (University of Melbourne
+Andrea Omicini (Alma Mater Studiorum-Università di Bologna
+Jeffrey S. Rosenschein (The Hebrew University of Jerusalem
+Jonathan Rowe (North Carolina State University
+Jivko Sinapov (UT Austin
+Bill Smart (Washington University in St. Louis
+Adam M. Smith (University of California Santa Cruz
+Brian Smith (Drexel University
+Sebastian Stein (University of Southampton
+Nathan Sturtevant (University of Denver
+Kiri Wagstaff (Jet Propulsion Laboratory
+Toby Walsh (NICTA and UNSW
+William Yeoh (New Mexico State University
+Marcello Balduccini (Drexel University
+Lina Barakat (King's College London
+Roman Bartak (Charles University in Prague
+Christian Bauckhage (Fraunhofer IAIS
+Sergiy Bogomolov (IST Austria
+Sylvain Bouveret (LIG - Grenoble INP
+Rui Camacho (LIACC/FEUP University of Porto
+Michael Cashmore (King's College London
+Hubie Chen (Universidad del Pa\'{i}s Vasco and Ikerbasque
+Lukas Chrpa (University of Huddersfield
+Stefania Costantini (Univ. di L'Aquila
+Fabio Cozman (Universidade de Sao Paulo
+Stephen Cranefield (University of Otago
+Giuseppe Della Penna (University of L'Aquila
+Clare Dixon (University of Liverpool
+Janardhan Rao Doppa (Washington State University
+Shaheen Fatima (Loughborough University
+Guillaume Infantes (ONERA
+Tushar Khot (University Of Wisconsin-Madison
+Angelika Kimmig (KU Leuven
+Weiru Liu (Queen's University Belfast
+Brian Logan (University of Nottingham
+Samhar Mahmoud (King's College London
+Marco Maratea (DIBRIS, University of Genova
+Francesco Maurelli (Technische Universität München
+Fabio Mercorio (University of Milano Bicocca
+Simon Miles (King's College London
+Eva Onaindia (Universitat Politecnica de Valencia
+Andrea Orlandini (National Research Council of Italy (ISTC-CNR
+Praveen Paruchuri (IIIT
+Ron Petrick (School of Informatics, University of Edinburgh
+Franco Raimondi (Middlesex University
+Bram Ridder (King's College London
+Ivan Serina (University of Brescia
+Carles Sierra (IIIA
+Ameet Soni (Swarthmore College
+Peter Sunehag (Google - Deep Mind
+Matthias Thimm (Universität Koblenz-Landau
+Mauro Vallati (University of Huddersfield
+Wamberto Vasconcelos (University of Aberdeen
+Martin Wehrle (University of Basel
+Martha White (University of Alberta
+Stefan Woelfl (University of Freiburg
+William Yeoh (New Mexico State University
+Invited Speakers: 
+Thomas G. Dietterich (Oregon State University)
+Nick Bostrom (Oxford University)
+Demis Hassabis (Google DeepMind)
+Andreas Krause (ETH Zurich)
+Susan Murphy (University of Michigan)
+Naveen Rao (Nervana, Inc.)
+Reid G. Smith (i2k Connect)
+Claire Tomlin (University of California, Berkeley)
+Tutorial Forum and Panelists:
+Thomas E. Allen
+ Judy Goldsmith
+Francesca Rossi
+John Dickerson
+Tuomas Sandholm
+Ariel Felner
+ Wheeler Ruml
+Nathan Sturtevant
+Scott Sanner
+Robin R. Murphy
+Joohyung Lee
+Steve Chien
+Daniele Magazzeni
+Reza Borhani
+ Jeremy Watt
+Aggelos K. Katsaggelos
+Stefano Albrecht
+Prashant Doshi
+Kenneth D. Forbus
+ Maria D. Chang
+Matt McLure
+Roman Barták
+Paulo Shakarian
+Estevam Rafael Hruschka Junior
+Frank Hutter
+T. Marius Lindauer
+Fahiem Bacchus
+Matti Jãrvisalo
+Madhav Marathe
+ Naren Ramakrishnan
+Anil Kumar Vullikanti
+Kai-Wei Chang
+ Gourab Kundu
+ Dan Roth
+Vivek Srikumar
