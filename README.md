@@ -7,11 +7,25 @@ The goal of the research is to identify whether particular fields are open to mi
 
 This will require mining webpages of various sorts and using NLP to try to identify key pieces of information.
 
-## scraping-base.py
-For using this software scraping webpages from this particular base URL:
-
-https://aaai.org/Conferences/AAAI-20/
+## scraping-adv.py
+For using this software for pulling names and contextual information from two conference websites in the domain of Artificial Intelligence:
 
 Make sure you have installed Python3.0 or higher and JAVA 8 (in order to use tika for parsing pdf) in your computer, as well as install and import all modules properly.
+The conference websites are listed below:
+AAAI Conference:
+urls = ['https://aaai.org/Conferences/AAAI-20/',
+        'https://aaai.org/Conferences/AAAI-19/',
+        'https://aaai.org/Conferences/AAAI-18/',
+        'https://aaai.org/Conferences/AAAI/aaai17.php',
+        'https://aaai.org/Conferences/AAAI/aaai16.php',
+        'https://aaai.org/Conferences/AAAI/aaai15.php',
+        'https://aaai.org/Conferences/AAAI/aaai14.php',
+        'https://aaai.org/Conferences/AAAI/aaai13.php']
 
-The example output file (example_output.txt) is provided in case of any accident, which contains names on different sections and pages for year 2020. 
+APPLIED AI Summit:
+urls = ['https://www.re-work.co/events/applied-ai-summit-san-francisco-2021',
+         'https://www.re-work.co/events/applied-ai-summit-san-francisco-2020',
+         'https://www.re-work.co/events/applied-ai-summit-san-francisco-2019',
+         'https://www.re-work.co/events/applied-ai-summit-houston-2018']
+         
+         
