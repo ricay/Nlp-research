@@ -11,6 +11,7 @@ This will require mining webpages of various sorts and using NLP to try to ident
 For using this software for pulling names and contextual information from two conference websites in the domain of Artificial Intelligence:
 
 Make sure you have installed Python3.0 or higher and JAVA 8 (in order to use tika for parsing pdf) in your computer, as well as install and import all modules properly.
+
 The conference websites are listed below:
 AAAI Conference:
 urls = ['https://aaai.org/Conferences/AAAI-20/',
