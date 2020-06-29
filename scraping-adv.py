@@ -4,6 +4,14 @@ import re
 import os.path
 from tika import parser
 
+YEARS = ['-20/', '-19/', '-18/', '/aaai17.php', '/aaai16.php',
+         '/aaai15.php', '/aaai14.php', '/aaai13.php']
+AAAI = 'https://aaai.org/Conferences/AAAI{}'
+
+YEARS_AI = [('houston', 2018), ('san-francisco', 2019),
+            ('san-francisco', 2020), ('san-francisco', 2021)]
+APPLIED_AI = 'https://www.re-work.co/events/applied-ai-summit-{}-{}'
+
 def request(url):
     result = requests.get(url)
 
@@ -257,7 +265,7 @@ def clean_txt(file):
         out_file = year[0] + '_applied_ai_output.txt'
 
     save_path = 'output/'
-    
+
     complete = os.path.join(save_path, out_file)
 
     with open(file) as infile, open(complete, 'w') as outfile:
@@ -296,15 +304,7 @@ def pdf_parser(file):
 
 if __name__ == '__main__':
 
-    aaai_urls = ['https://aaai.org/Conferences/AAAI-20/',
-                 'https://aaai.org/Conferences/AAAI-19/',
-                 'https://aaai.org/Conferences/AAAI-18/',
-                 'https://aaai.org/Conferences/AAAI/aaai17.php',
-                 'https://aaai.org/Conferences/AAAI/aaai16.php',
-                 'https://aaai.org/Conferences/AAAI/aaai15.php',
-                 'https://aaai.org/Conferences/AAAI/aaai14.php',
-                 'https://aaai.org/Conferences/AAAI/aaai13.php']
-
+    aaai_urls = [AAAI.format(year) for year in YEARS]
 
     os.makedirs('output/')
     for url in aaai_urls:
@@ -330,12 +330,10 @@ if __name__ == '__main__':
 
         clean_txt(check_year(url))
 
-    applied_ai_urls = ['https://www.re-work.co/events/applied-ai-summit-san-francisco-2021',
-                       'https://www.re-work.co/events/applied-ai-summit-san-francisco-2020',
-                       'https://www.re-work.co/events/applied-ai-summit-san-francisco-2019',
-                       'https://www.re-work.co/events/applied-ai-summit-houston-2018']
 
-    for link in applied_ai_urls:
+    applied_urls = [APPLIED_AI.format(*year) for year in YEARS_AI]
+
+    for link in applied_urls:
 
             soup = request(link)
 
