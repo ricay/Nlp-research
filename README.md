@@ -9,7 +9,7 @@ Make sure you have installed Python3.0 or higher and JAVA 8 (in order to use tik
 
 The conference websites are listed below and the example output are showing in the example_output folder.
 
-AAAI Conference:
+AAAI Conference:    
 urls = ['https://aaai.org/Conferences/AAAI-20/',
         'https://aaai.org/Conferences/AAAI-19/',
         'https://aaai.org/Conferences/AAAI-18/',
