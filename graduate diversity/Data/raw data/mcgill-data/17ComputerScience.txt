@@ -1,0 +1,64 @@
+ComputerScienceDo-Omri  Alan
+Emami  Ali
+Del Balso  Daniel
+Wen  Yuanzheng
+Merheb-Harb  Jean
+Lehnert  Lucas
+Kia  Seyed-Ehsan
+Sidhaye  Priya
+Dimitrov  Stefan
+Chen  Xiaozhong
+Bengio  Emmanuel
+Goblot  Damien
+Laflamme  Stephanie
+Otis  Shawn
+Galea  Brendan
+Li  Jian
+Humphrey  Harrison
+Gourdeau  Pascale
+Long  Teng
+Jacob-Rao  Rohan
+Yue  Jianan
+Zhang  Weiwei
+Chenal  Victor
+Naumov  Evgeny
+Becerra Romero  David
+Wang  Boyu
+Rabbani  Amir Hossein
+Xu  Anqi
+Meghjani  Malika
+Mannan  Fahim
+Xia  Mingyuan
+Gascon-Samson  Julien
+Zhu  Nan
+Kong  Fanxin
+Chen  Xi
+Wang  Wen
+Famulari  Gabriel
+Olanrewaju  Ayokunle
+Uddin  Gias
+Robillard  Martin P.
+Kaiser  Jonas
+Pientka  Brigitte
+Smolka  Gert
+Chouinard-Thuly  Laura
+Gierszewski  Stefanie
+Rosenthal  Gil G.
+Reader  Simon M.
+Rieucau  Guillaume
+Woo  Kevin L.
+Gerlai  Robert
+Tedore  Cynthia
+Ingley  Spencer J.
+Stowers  John R.
+Frommen  Joachim G.
+Dolins  Francine L.
+Witte  Klaudia
+Rezagholizadeh  Mehdi
+van Vugt  Floris T.
+Ostry  David J.
+Bilodeau  Edward
+Pouliot  Antoine
+Schulz  Erick
+Gonzalez Oliver  Carlos
+Schiavini  Paolo

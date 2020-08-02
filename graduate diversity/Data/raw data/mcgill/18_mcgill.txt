@@ -1,0 +1,500 @@
+Computer Science:
+Angelard-Gontier  Nicolas
+Verdier  Benjamin
+Chen  Lixiong
+Kones  Ira
+Henderson  Peter
+Campbell  Jonathan
+Newton  David
+Kunnath  Neeth
+Bourque  David
+Satija  Harsh
+Gagné  Nicolas
+Petrella  Vincent
+Guo  Hong Chuan
+Siow  Cheuk Chuen
+Onu  Charles
+Zhang  Ling
+Kang  Peng
+Kinattinkara Rama
+krishnan  Ramchalam
+Dong  Shuonan
+Ciga  Ozan
+Imtiyaz  Mansha
+Singh  Jaspal
+Ferreira Ruiz  Francisco
+Jiang  Landu
+Ahmad  Muhammad
+Sigler  Andrea Jordana
+Uddin  Mohammad
+Ishlam Patoary  Mohammad
+Jukss  Maris
+Yuditsky  Yelena
+Bacon  Pierre-Luc
+Xiao  Sa
+Noseworthy  Michael
+Holliday  Andrew
+Li  Tianyu
+Ratol  Inderjot Kaur
+Aboutalebi  Hossein
+Zhao  Mingfei
+Jain  Ayush
+Atiia  Ali A.
+Chen  Yixin
+Barbosa  Rodrigo
+Engineering:
+De Sena  Aidan
+McCartney  Lucas
+Galan Galan  Antonio
+Brassard  Patrick
+Furber  Alison
+Tang  Fei
+Sorour  Mariam
+Ghasri  Mahsa
+Hitti  Yasmeen
+Kannan  Shrikalaa
+Gillis  Joseph
+Zhang  Daihui
+Rufyikiri  Anne Sophie
+Palaniswamy  Subhash
+Zhu  Yao
+Buelvas  Roberto
+Shinde  Sadanand
+Reilly  Kate
+Johnston  Allegra
+Ahmed  Ahmed
+Garcia Holguera  Maria
+Gill  Jagpreet Kaur
+Keisandokht  Shima
+Austin  Emmet
+Duquette  Daniel
+Md Khudzari  Jauharah
+Quilty  John
+Adekunle  Ademola
+Jiang  Qianjing
+Vanga  Sai Kranthi Kumar
+Li  Sirui
+McVoitte  Wilton
+Folarin-Ottun  Omotola
+Saxena  Rachit
+Kaur  Harmanjot
+Lei  Qian
+Salehi Nobandegani  Ardavan
+Tordini  Francesco
+Alreefi  Mahmoud
+Liu  Zhaomin
+Grisé  Emily
+El-Geneidy  Ahmed
+Deboosere  Robbin
+Boisjoly  Geneviève
+Hatami  Ehsan
+Ibghy  Jordanna
+Zea  Jose
+Ghosh  Kaustav
+Mozayeni  Mahsa
+Rueda S.  María Carolina
+Yucel  Onur
+Aboutalebi  Sahba
+Luxion  Mona
+Avni  Nufar
+Marot  Bruno
+Chen  Winnky
+Chew  Loreina
+Ghadi-Delgado  Adam
+Lemay  Alice
+Pingeton  Julia
+Shymanski  Geneviève Mae
+Anderson  Dylan
+Berton  K.
+Brazeau  Evan
+Carrier Doneys  Sadhana
+Chaney  David
+Cobb  Cecelia
+deManbey  Heather
+Dion  Milie-Jade
+Heyman  Eli
+Jin  Amy Xue
+Kerrigan  Danielle
+Labbé  Jolène
+LaFleche  Devin
+Sculthorp  Miranda
+Servidio  Christopher
+Shillolo  Andrea
+Vachon  Nicolas
+Veillette  Marie-Pier
+White  Olivia
+Wiebe  Kyle
+Robertson  Emily
+Zafran  Hiba
+Barudin  Jessica
+Kasperski  Janelle
+Saunders  Sara
+Granger  Julie
+sigman  Daniel M.
+Gagnon  Jonathan
+Tremblay  Jean-Eric
+Mucci  Alfonso
+Berrada  Reda
+Salehi Nobandegani  Ardavan
+Santorelli  Julian
+Mahvash Mohammadi  Farzaneh
+Kabir  Muhammad
+Tordini  Francesco
+Quashie  Mike
+Moayedi Pour Fard  Monireh
+Abdelfattah  Moataz
+Hussain  Mohammad Shabbir
+Zheng  Bo
+Smith  Michael
+Cui  Qiushi
+Salimi  Armin
+Sadaf  Sharif
+Shaghaghian  Shohreh
+Donnelly  Christopher
+Zhu  Hongzhi
+Razani  Ryan
+Elmo Paul  Vernon
+Navarro Heredia  Ana
+Rangel  Carlos
+Tweed  Daniel
+Aslam  Muhammad Danyal
+Soltani  Fatemeh
+Lugosch  Loren
+Iqbal  Ayesha
+Wu  You Long
+Alfaifi  Ahmad
+Burns  Margaret
+Yu  Bingqing
+Assran  Mahmoud
+Pedrosa Silva
+Rodrigo Cesar
+Li  Rui
+Ghorbanian  Vahid
+Zhang  Fangyuan
+El-Ashmawy  Ahmed
+Liang  Min
+Ahmed  Shamwilu
+Pandey  Abhishek
+Sridhar  Deepak
+Pasumarthy  Srikanth
+Dubois  Dirk
+Watts  Dylan
+Ding  Liqiang
+Taghi Boroojerdi  Mehrnoosh
+Alsaiary  Tariq
+Hoang  Minh Thang
+Yang  Jiaxin
+Chowdhury  Mohammad
+Mai  Ruikai
+Wu  Di
+Chung  Hanwook
+Zhang  Fei
+Ali  Syed Qaseem
+Chlela  Martine
+Wang  Renjie
+Chan  Alvin
+Jamali  Behnam
+Nair  Tanya
+Ravichandran  Praveen
+Sinha  Shaunak
+Mathew  Sebin
+Kumar  Ruchika
+Luthra  Sahil
+Wen  Ruiyin
+Kostoglou  Kyriaki
+Tran  Ngoc
+Anh Minh
+Song  Pengfei
+Loiseau  Jason
+Vickery  James
+Battiston  Adrian
+Milanovic  Gilbert
+Minas  Sophie
+Hinton  Michael
+Belhaouane  Selim
+Camozzi  Stephen
+Bakkar Bahnasawy
+Ahmed Elsayed
+Shi-Dong  Doug
+Haq  Bassam ul
+Omerovic Beccalli  Nina
+Tang Yuk  Kelsey
+Lokhmanets  Iurii
+Tang  Yunlong
+Botta  Eleonora
+Venne  Kevin
+Shang  Xiao
+Reynolds  Gerard
+Yang  Fan
+Rahimizadeh  Amirmohammad
+Bhujbal  Ashutosh
+Müller  Marius
+Mi  XiaoCheng
+Tremblay-Dionne  Vincent
+Chee  Stephen
+Li  Wei
+Malik  Idris
+Dias Goncalves  Cassio
+Rajasekar  Priyatharsan
+Barroeta Robles  Julieta
+Srikumar  Srikumar
+Enzenhöfer  Andreas
+Collins  Caroline
+Krumenacker  Nicolas
+Hitchcox  Thomas
+Latifi Alavijeh  Neda
+Anthony  Morris
+Chen  Lei Xi
+Xu  Hang
+Liauw  Yuhanes
+Tfaily  Ali
+Karimi Eskandary  Peyman
+Roozegar  Mehdi
+Marleau-Finley  Julien
+Seguin  Jory
+Chiappinelli  Romain
+Cave  Jordan
+Benoit  Marc
+Huitema  David
+Zhao  Chen
+Engineering:
+Scott  Allison Nicole
+Labrecque  Jeremy
+Mawad  Habib
+Villandré  Luc
+Rossi  Carmine
+Wong  Jenna
+Magalhaes  Sandra
+Isidean  Sandra
+Wang  Zhuoyu
+Aibibula  Wusiman
+Wang  Shouao
+Wang  Guanbo
+Fiscaletti  Melissa
+Clark  Sierra
+Maxwell  Lauren
+Azar  Marleine
+McLinden  Taylor
+Chu  Cherry
+Blouin  Brittany
+Zhu  Nanqing
+Leclair  Marichelle
+Wei  Xiaoyu
+Meng  Lingrui
+Richardson  Robin
+Chen  Liying
+Soucy  Jean-Paul
+Syrowatka  Anna
+Merckx  Joanna-Trees
+Doll  Margaret
+O'Donnell  Shauna
+Engineering:
+Ma  Zhenwei
+Westlund  Paul
+Maliska  Ryan
+Pelletier  François-Julien
+Khan  Ahmed
+Buddhadasa  Madhuwanthi
+Aguilar Gutiérrez  Oscar
+Marshall  Meghan
+Bustos  Marlon
+Alayan  Hicham
+Elkayar  Karem
+Cooper  Scott
+Pascone  Pierre
+Evans  Mathew
+Younes  Amir
+Babaei  Sara
+Bedard  Emma
+Karthikeyan  Adya
+Burkat  Daniel
+Emmott  Alexander
+Assaf  Youssef
+Zhao  Lisa
+De Campos  Jasmin
+Kok  Matthew
+Roohnikan  Mahdi
+Siddiqui  Sanya
+Carrigan  Logan
+McNall  Mitchell
+Lin  Nicholas
+Motallebi Nasrabadi  Mohammad
+Talukder  Mohammad
+Rizk  Robert
+Mejia Avendaño  Sandra
+Adomat  Nicholas
+Mousteraki  Aikaterini
+Consuegra Martínez  Claudio
+Santos  Veronica
+Brière  Vincent
+Asgarian  Amin
+Mohammad  Naweed
+Chen  Hsien-Wei
+Handa  Kartikey
+Dilawari  Moneek
+Deka  Bhargob
+Penkarski-Rodon  Elena
+Zhang  Qin
+Sasai  Kotaro
+Daher  Nayer
+Manzali  Aaron
+Nikolaidou  Violetta
+Leone  Andrea
+Edroos  Syed Fiza
+Kasprzyk  Aleksandra
+Nouroudine Hassanaly  Lamia
+Biology:
+Wong  Edwin
+Shahbazian  Lawrie
+Kaplan  Andrew
+Bélanger  Anne-Marie
+Dahmani  Louisa
+McLelland  Gian-Luca
+Bedford  Alexandra
+Beamish  Ian
+Gharat  Amol
+Yu  Elsa Hauyou
+Xu  Kathleen
+Morales Garza  Daniel
+Torres Berrio  Angelica
+Ding  Yang
+Lee  Hyunwoo
+Manning  Lyssa
+Neupane  Sujaya
+Hoeppli  Marie-Eve
+Jayabal  Sriram
+Wang  Yushu
+Tomaszewski  Patricia
+Planche  Illiez
+Ducharme  Daniel
+Tryfon  Ana
+Chouinard-Decorte  Francois
+Gao  Yi
+Boulos  Laura-Joy
+Chen  Chien-Ming
+Reed  Sean
+Lafaille-Magnan  Marie-Elyse
+Neseliler  Selin
+Ouhnana  Marouane
+Palanisamy  Ravishankar
+Jung  Suna
+Lifshitz  Michael
+Athanassiou  Maria
+Arnaud  Laureline
+D'Souza  Desiree
+Ramin  Mahmoudreza
+Zhang  Tian Rui
+Lee  Changseok
+Zeighami  Yashar
+Ginzberg  Keren
+Guinaudie  Chloe
+Krahn Roldan  Andrea
+McKee  Kyle
+Rosengard  Rachel
+Dickinson  Philip Geoffrey
+Hashemi Aghchehbody  Alireza
+Poquerusse  Jessie
+Kim  John
+Fuh  Shih-Chieh
+Cohen  Daniel
+Tam  Angela
+Bigras  Catherine
+Crapper  Liam
+Satterthwaite  Matthew
+da Silva  Ronan
+Ju  Chelsey
+Johnstone  Aaron
+Rosen  Sarah
+Ankudowich  Elizabeth
+Levi  David
+Bélanger  Alexandra
+Olivieri  Bianca
+Tullo  Stephanie
+Lahaie  Sylvie
+Tufford  Adele
+Alchini  Ricardo
+Crafa  Daina
+Wiedman  Candice
+Kadekar  Pratik
+O'Connor  David
+Barrow  Jennifer
+Portalier  Sébastien
+Nordlund  Julia
+Yergeau  Christine
+Ackerly  Kerri
+Bull  James
+Varela  Brandon
+Fowler  Donald
+Valverde  Marisol
+Peng  Jimmy
+Grimm  Jaime
+Weiner  Catherine
+Shulist  Kristian
+Du  Trina
+Brule  Veronique
+Cabrera Álvarez  María
+Sun  Jiaqi
+Narasumani  Mohanalakshmi
+Crandall  Kirsten
+Milne  Russell
+Lipari  Vittoria
+Hu  Juntao
+Vaz  Brandon
+Vo Hoang  Karen
+Tsering  Thupten
+Hristova  Tzvetena
+Chen  He
+Chung  Ji-Hyun
+Dube  Jonathan Christopher
+Gorelik  Alexei
+Ablenas  Christopher
+Bin  Xue
+Sharma  Richa
+Li  Si Han
+Shafer  Maxwell
+Yan  Amy Youjia
+Kong  Tim
+Ashour  Kholoud
+Jain  Deepak
+Sleiman  Katia
+Ratcliffe  Colin
+Wang  Xue Qing
+Kamal  Mohamed
+Dagenais  Maryse
+Coyne  Erin Shier
+Ma  Jennifer
+Wong  Kathy
+Robichaud  Nathaniel
+Jones  Laura
+Seirafi  Marjan
+Nguyen  Xuan Tien
+Ferwati  Sara
+Reimer  Janice
+Andrzejewski  Sylvia
+Harb  Ingrid
+Fathaddin  Alaa
+Zlobine  Igor
+Zakaria  Chadi
+Ayoub  Emily
+Alahmadi  Walaa
+Chemistry:
+Guan  Jinming
+Hiltz  Jonathan
+Tomberg  Anna
+Abou Assi  Hala
+Christopherson  Jan-Constantin
+Liu  Zhaomin
+Rahbani  Janane
+Seiler  Hélène
+Liu  Wenbo
+Chang  Justin
+King  Catherine
+Hughes  Jonathan
+Chidchob  Pongphak
+Polic  Vanja
+Brosseau  Patrick
+Harkness  Robert
+Janmamode  Naëla
+Di Nardo  Thomas
+Vincent  Félix
+Halloran  Matthew

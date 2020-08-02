@@ -1,0 +1,30 @@
+---
+title: "Graduate student trend"
+author: "Ruijia Yang"
+date: "29/07/2020"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(pwr)
+pwr.2p2n.test(h = 0.2, n1 = 563, n2 = 608, sig.level = NULL, power = 0.8)
+```
+
+
+```{r}
+prop.test(x = c(2028,2401), n = c(7956,8794), alternative = "less",conf.level = 0.99)
+qnorm(0.9958)
+```
+
+```{r}
+prop.test(x = c(62,43), n = c(236,156), alternative = "less",conf.level = 0.99)
+qnorm(0.4339)
+```
+
+
