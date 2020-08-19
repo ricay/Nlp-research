@@ -1,4 +1,4 @@
-# Nlp- conference research project
+# Natural language processing - conference research project
 This research is an independent study course under the guidance of Professor Andrew Petersen at University of Toronto Mississauga.
 
 ## web scraping software
@@ -39,7 +39,7 @@ In the folder: graduate diversity, data and software are included, and final rep
 
 The goal of the research is to identify whether particular fields - STEM are open to minorities of various sorts (gender, ethnic background) by mining the published papers' authors for 5 years to see
 (a) who is enrolled in the STEM 
-(b) possible influence of the diversity of graduates in STEM
+(b) possible influence of the diversity of graduates in STEM.
 
          
          
